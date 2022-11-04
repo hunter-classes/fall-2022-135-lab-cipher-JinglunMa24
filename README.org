@@ -1,10 +1,10 @@
 * Fall 2021 - Lab Cipher
 
-* Last name:
+* Last name: Ma
 
-* First name:
+* First name: Jinglun
 
-* GitHub username:
+* GitHub username: JinglunMa24
 
 * Notes:
 
